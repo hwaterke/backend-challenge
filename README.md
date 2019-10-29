@@ -1,6 +1,7 @@
 # Backend challenge
 
-I created tis repo to explore different languages and frameworks and see how to create an API with each one of them.
+I created this repo to explore different languages and frameworks.
+The objective is to create an API with many different languages/frameworks in order to better identify good practices amongst them. (e.g. separation of concerns, file structure, abstractions, dependency management, etc.)
 
 Here is the plan:
 
@@ -9,5 +10,5 @@ Here is the plan:
 - Java / Spring Boot
 - Kotlin / Ktor
 - Ruby / Rails
-- PHP / Laravel
 - Python / Django or Flask
+- PHP / Laravel
